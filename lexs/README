@@ -1,0 +1,41 @@
+cmd 
+    register
+    auth
+    item
+    order
+    pay
+
+domain
+    user
+    collect
+
+x
+    rpc
+    cache
+        memcached
+        groupcache
+    database
+        mysql
+
+kit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
